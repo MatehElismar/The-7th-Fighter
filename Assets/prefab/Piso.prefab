@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 3557249254803452215}
   m_Layer: 0
   m_Name: iso4.11 piso (6)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -145,7 +145,7 @@ GameObject:
   - component: {fileID: 7111550003051852904}
   m_Layer: 0
   m_Name: iso4.11 piso
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -276,7 +276,7 @@ GameObject:
   - component: {fileID: 1356204801975549105}
   m_Layer: 0
   m_Name: iso4.11 piso
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -407,7 +407,7 @@ GameObject:
   - component: {fileID: 3536015416178905911}
   m_Layer: 0
   m_Name: iso4.11 piso (11)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -538,7 +538,7 @@ GameObject:
   - component: {fileID: 4918146746631253439}
   m_Layer: 0
   m_Name: iso4.11 piso (1)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -669,7 +669,7 @@ GameObject:
   - component: {fileID: 6078600217550028512}
   m_Layer: 0
   m_Name: iso4.11 piso (9)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -864,7 +864,7 @@ SpriteRenderer:
   m_Size: {x: 0.56, y: 0.6}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &1565723338001499417
@@ -881,7 +881,7 @@ GameObject:
   - component: {fileID: 1565723338001499415}
   m_Layer: 0
   m_Name: iso4.11 piso
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1012,7 +1012,7 @@ GameObject:
   - component: {fileID: 1565723338411773827}
   m_Layer: 0
   m_Name: y-24.11 piso
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1140,7 +1140,7 @@ GameObject:
   - component: {fileID: 1565723338938459696}
   m_Layer: 0
   m_Name: Piso
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1203,7 +1203,7 @@ GameObject:
   - component: {fileID: 1565723339409649132}
   m_Layer: 0
   m_Name: 61654[1]_1
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1398,7 +1398,7 @@ SpriteRenderer:
   m_Size: {x: 0.56, y: 0.6}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &2690941106786000014
@@ -1415,7 +1415,7 @@ GameObject:
   - component: {fileID: 3352637440349856}
   m_Layer: 0
   m_Name: iso4.11 piso
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1610,7 +1610,7 @@ SpriteRenderer:
   m_Size: {x: 0.56, y: 0.6}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &3521193411538204466
@@ -1627,7 +1627,7 @@ GameObject:
   - component: {fileID: 5187996007148180563}
   m_Layer: 0
   m_Name: iso4.11 piso (4)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1822,7 +1822,7 @@ SpriteRenderer:
   m_Size: {x: 0.56, y: 0.6}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &3964724646647216991
@@ -1839,7 +1839,7 @@ GameObject:
   - component: {fileID: 1480039098401457998}
   m_Layer: 0
   m_Name: iso4.11 piso (2)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1970,7 +1970,7 @@ GameObject:
   - component: {fileID: 5261218642966264214}
   m_Layer: 0
   m_Name: iso4.11 piso (5)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2101,7 +2101,7 @@ GameObject:
   - component: {fileID: 3062710563653782322}
   m_Layer: 0
   m_Name: iso4.11 piso (2)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2232,7 +2232,7 @@ GameObject:
   - component: {fileID: 4959077539312354305}
   m_Layer: 0
   m_Name: iso4.11 piso (10)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2363,7 +2363,7 @@ GameObject:
   - component: {fileID: 6516091523069794139}
   m_Layer: 0
   m_Name: iso4.11 piso (3)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2494,7 +2494,7 @@ GameObject:
   - component: {fileID: 8155083173056979663}
   m_Layer: 0
   m_Name: iso4.11 piso (13)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2625,7 +2625,7 @@ GameObject:
   - component: {fileID: 3863186109104394420}
   m_Layer: 0
   m_Name: iso4.11 piso (14)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2756,7 +2756,7 @@ GameObject:
   - component: {fileID: 1087655821545516636}
   m_Layer: 0
   m_Name: iso4.11 piso (1)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2887,7 +2887,7 @@ GameObject:
   - component: {fileID: 3780086499886496568}
   m_Layer: 0
   m_Name: iso4.11 piso (15)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3082,7 +3082,7 @@ SpriteRenderer:
   m_Size: {x: 0.56, y: 0.6}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &7604323242703769621
@@ -3099,7 +3099,7 @@ GameObject:
   - component: {fileID: 7380663957544504928}
   m_Layer: 0
   m_Name: iso4.11 piso (8)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3294,7 +3294,7 @@ SpriteRenderer:
   m_Size: {x: 0.56, y: 0.6}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &8283744172067522800
@@ -3311,7 +3311,7 @@ GameObject:
   - component: {fileID: 6191486423706498717}
   m_Layer: 0
   m_Name: iso4.11 piso (12)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3442,7 +3442,7 @@ GameObject:
   - component: {fileID: 7224527246174185302}
   m_Layer: 0
   m_Name: iso4.11 piso (7)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3637,6 +3637,6 @@ SpriteRenderer:
   m_Size: {x: 0.56, y: 0.6}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0

@@ -9,6 +9,7 @@ public class Player1Controller : MonoBehaviour
     public float jumpForce  = 5f;
     public bool isGrounded = false; 
     private float lastMove = 1f; 
+    public bool facingRight = true;
 
 
     public KeyCode Up;
@@ -19,6 +20,10 @@ public class Player1Controller : MonoBehaviour
 
     void Start()
     {
+        if(facingRight == false){
+            rotate();
+            lastMove = -1f;
+        }
        print("Sprite Working?");
     }
  

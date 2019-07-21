@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 4c80d13819c8aef45bf74d916fb5eb38
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -288019950288234086
+    second: arma3[1]_0
+  - first:
+      213: 499858828002368302
+    second: arma3[1]_1
+  - first:
+      213: 6736875695185653236
+    second: arma3[1]_2
+  - first:
+      213: -5444412432401443091
+    second: arma3[1]_3
+  - first:
+      213: -1633700153722723252
+    second: arma3[1]_4
+  - first:
+      213: 5117906737710419776
+    second: arma3[1]_5
+  - first:
+      213: 7090649286539205042
+    second: arma3[1]_6
+  - first:
+      213: -6734117371999701053
+    second: arma3[1]_7
+  - first:
+      213: 7504005418011197538
+    second: arma3[1]_8
+  - first:
+      213: -3581501383546126763
+    second: arma3[1]_9
+  - first:
+      213: -2096732642738707669
+    second: arma3[1]_10
+  - first:
+      213: 4479437460375095644
+    second: arma3[1]_11
+  - first:
+      213: 7489999065835253980
+    second: arma3[1]_12
+  - first:
+      213: -842533551372304053
+    second: arma3[1]_13
+  - first:
+      213: 4393118149381411652
+    second: arma3[1]_14
+  - first:
+      213: 9212202713994061963
+    second: arma3[1]_15
+  - first:
+      213: -702766028544746673
+    second: arma3[1]_16
+  - first:
+      213: 3141545414967891385
+    second: arma3[1]_17
+  - first:
+      213: -1733709140451404219
+    second: arma3[1]_18
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 3
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arma3[1]_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 124
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0f5829ad6fd7541bd3a8e3a96ca894
+      internalID: -288019950288234086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arma3[1]_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 81
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9164acafeeedaa94ebdab792edc57fec
+      internalID: 499858828002368302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arma3[1]_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 96
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084b9ab88491e584ab6ed5be42380138
+      internalID: 6736875695185653236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arma3[1]_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 81
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e07b74e64b54f848b5be91cb13f4771
+      internalID: -5444412432401443091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arma3[1]_4
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 98
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a949f233f80607b4caa9d1b0a9d12e38
+      internalID: -1633700153722723252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arma3[1]_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 137
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c813fce26b82c46952a7a3fbfca4e9
+      internalID: 5117906737710419776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arma3[1]_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 136
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891dfa26f92bdb14b90da3e7370fc479
+      internalID: 7090649286539205042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arma3[1]_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 136
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18214f990093ad44929d3f829db26a3
+      internalID: -6734117371999701053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arma3[1]_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 136
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8329e3674642874e8edabd3923cab5b
+      internalID: 7504005418011197538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arma3[1]_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 120
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed6e477c353d294fa432c78b6b997ff
+      internalID: -3581501383546126763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arma3[1]_10
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 120
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f22cd81120edb498207649fac896a8
+      internalID: -2096732642738707669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arma3[1]_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 43
+        width: 6
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dd68e576a318544b7a3d61aec1e1b1
+      internalID: 4479437460375095644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arma3[1]_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 42
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea46758998446447ab53ca5c4133378
+      internalID: 7489999065835253980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arma3[1]_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 42
+        width: 3
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8b99ee7c69eff46a53da9cf96c2276
+      internalID: -842533551372304053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arma3[1]_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 41
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0301e3c91ffa0e4e937b8dba62a6171
+      internalID: 4393118149381411652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arma3[1]_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 44
+        width: 6
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2c3ffdd8b84ae4cafb14d929cdae6f
+      internalID: 9212202713994061963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arma3[1]_16
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 42
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b714f60d63a9c4d8321c29f3e041f0
+      internalID: -702766028544746673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arma3[1]_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 42
+        width: 3
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7004e6b278ddd8a419855bccc84d7409
+      internalID: 3141545414967891385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arma3[1]_18
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 41
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1796cc7c41972044b9b78f0af68aa7e6
+      internalID: -1733709140451404219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
