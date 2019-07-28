@@ -14,10 +14,10 @@ public class BulletController : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collider)
     {     
-        Player1Controller player = collider.GetComponent<Player1Controller>();
+        Player1Control player = collider.GetComponent<Player1Control>();
         if(player != null)
         {
-            player.takeDamage(damage);
+            player.takeDamage1(damage);
         }
         Destroy(gameObject);
     }

@@ -9,7 +9,7 @@ public class Weapon : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        FireKey = gameObject.transform.parent.gameObject.GetComponent<Player1Controller>().Fire;
+        FireKey = gameObject.transform.parent.gameObject.GetComponent<Player1Control>().Fire;
     }
 
     // Update is called once per frame
