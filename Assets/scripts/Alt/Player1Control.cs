@@ -59,8 +59,9 @@ public class Player1Control : MonoBehaviour
 
     public void takeDamage1(int damage){
         this.health -= damage;
-        if(this.health <= 0)
+        if(this.health <= 0){
             Die1();
+        }
     }
 
     void ToJump1()
