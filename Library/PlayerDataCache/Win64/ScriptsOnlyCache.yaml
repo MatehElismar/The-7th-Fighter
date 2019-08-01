@@ -3,15 +3,27 @@ ScriptsOnlyBuild:
     Assembly-CSharp.dll:
     - BulletController
     - Camara_S
+    - CodeMonkey.Assets
     - Grounded
+    - HealthBar
     - Player1Control
     - Weapon
+    - script
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridPaintingState
     - UnityEditor.Tilemaps.GridPaletteBrushes
     - UnityEditor.Tilemaps.GridPalettes
     - UnityEditor.Tilemaps.SceneViewGridManager
     - UnityEditor.Tilemaps.TileDragAndDropManager
+    Unity.ugui.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.Button
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.Image
+    - UnityEngine.UI.RawImage
+    - UnityEngine.UI.Text
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
@@ -47,6 +59,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 91
       Script: {instanceID: 0}
     - Class: 95
@@ -54,15 +70,17 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11586}
+      Script: {instanceID: 11530}
     - Class: 114
-      Script: {instanceID: 11680}
+      Script: {instanceID: 11622}
     - Class: 114
-      Script: {instanceID: 12416}
+      Script: {instanceID: 12358}
     - Class: 114
-      Script: {instanceID: 12550}
+      Script: {instanceID: 12492}
     - Class: 114
-      Script: {instanceID: 12604}
+      Script: {instanceID: 12546}
+    - Class: 114
+      Script: {instanceID: 34770}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -71,11 +89,64 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 213
       Script: {instanceID: 0}
+    Assets/Scenes/Menu.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 10904}
+    - Class: 114
+      Script: {instanceID: 11072}
+    - Class: 114
+      Script: {instanceID: 11112}
+    - Class: 114
+      Script: {instanceID: 11512}
+    - Class: 114
+      Script: {instanceID: 11884}
+    - Class: 114
+      Script: {instanceID: 11904}
+    - Class: 114
+      Script: {instanceID: 12368}
+    - Class: 114
+      Script: {instanceID: 12742}
+    - Class: 114
+      Script: {instanceID: 15028}
+    - Class: 114
+      Script: {instanceID: 15032}
+    - Class: 114
+      Script: {instanceID: 35322}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
   scriptHashData:
   - hash:
       serializedVersion: 2
       Hash: 4bc4346a71a8df53a6b106f68ef3a190
-    assemblyName: UnityEngine.UI.dll
+    assemblyName: Unity.ugui.dll
     namespaceName: UnityEngine.UI
     className: CanvasScaler
   - hash:
@@ -117,31 +188,31 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: fc108ce7d98c40ac0907e8ca7f500c76
-    assemblyName: UnityEngine.UI.dll
+    assemblyName: Unity.ugui.dll
     namespaceName: UnityEngine.UI
     className: Text
   - hash:
       serializedVersion: 2
       Hash: 06a330481ec400be50745bb7faf76bd0
-    assemblyName: UnityEngine.UI.dll
+    assemblyName: Unity.ugui.dll
     namespaceName: UnityEngine.UI
     className: Scrollbar
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: UnityEngine.UI.dll
+    assemblyName: Unity.ugui.dll
     namespaceName: UnityEngine.UI
     className: PositionAsUV1
   - hash:
       serializedVersion: 2
       Hash: abf1930d8126d0b2e00e9449129a0190
-    assemblyName: UnityEngine.UI.dll
+    assemblyName: Unity.ugui.dll
     namespaceName: UnityEngine.EventSystems
     className: TouchInputModule
   - hash:
       serializedVersion: 2
       Hash: 89498a9a4a6296605faa18a2c5f758a4
-    assemblyName: UnityEngine.UI.dll
+    assemblyName: Unity.ugui.dll
     namespaceName: UnityEngine.UI
     className: Image
   - hash:
@@ -159,13 +230,13 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: 7ab0e790220bdca831fdd886b339039d
-    assemblyName: UnityEngine.UI.dll
+    assemblyName: Unity.ugui.dll
     namespaceName: UnityEngine.UI
     className: GridLayoutGroup
   - hash:
       serializedVersion: 2
       Hash: 8aa3d6ccbcb54ee8db6c1229854adaaa
-    assemblyName: UnityEngine.UI.dll
+    assemblyName: Unity.ugui.dll
     namespaceName: UnityEngine.UI
     className: ContentSizeFitter
   - hash:
@@ -183,13 +254,13 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: 0dbc3be398b4869a5c8d0d8481ee402c
-    assemblyName: UnityEngine.UI.dll
+    assemblyName: Unity.ugui.dll
     namespaceName: UnityEngine.UI
     className: LayoutElement
   - hash:
       serializedVersion: 2
       Hash: 18c222bef9ae745ce69ddde9b74337ca
-    assemblyName: UnityEngine.UI.dll
+    assemblyName: Unity.ugui.dll
     namespaceName: UnityEngine.EventSystems
     className: PhysicsRaycaster
   - hash:
@@ -201,13 +272,13 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: cf9f5cf2c3145a37ac07f00e50e460f9
-    assemblyName: UnityEngine.UI.dll
+    assemblyName: Unity.ugui.dll
     namespaceName: UnityEngine.UI
     className: AspectRatioFitter
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: UnityEngine.UI.dll
+    assemblyName: Unity.ugui.dll
     namespaceName: UnityEngine.UI
     className: RectMask2D
   - hash:
@@ -225,19 +296,19 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: aba7b2852ef61d175dd9602e7723d5e5
-    assemblyName: UnityEngine.UI.dll
+    assemblyName: Unity.ugui.dll
     namespaceName: UnityEngine.UI
     className: Mask
   - hash:
       serializedVersion: 2
       Hash: caa533b001ae39b864ba8425019e2268
-    assemblyName: UnityEngine.UI.dll
+    assemblyName: Unity.ugui.dll
     namespaceName: UnityEngine.UI
     className: Shadow
   - hash:
       serializedVersion: 2
       Hash: cc4274b586df3c02688bac01b88bd16c
-    assemblyName: UnityEngine.UI.dll
+    assemblyName: Unity.ugui.dll
     namespaceName: UnityEngine.EventSystems
     className: EventSystem
   - hash:
@@ -248,7 +319,7 @@ ScriptsOnlyBuild:
     className: ControlPlayableAsset
   - hash:
       serializedVersion: 2
-      Hash: 46dbe65d7bfe223210935841523c80e9
+      Hash: 11176a2e08dfd55c0f052b9ac26f35ff
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Weapon
@@ -267,12 +338,12 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: 8dc90e648ac06f43bdd31ac9fa8f4579
-    assemblyName: UnityEngine.UI.dll
+    assemblyName: Unity.ugui.dll
     namespaceName: UnityEngine.UI
     className: Selectable
   - hash:
       serializedVersion: 2
-      Hash: e1e20e066f9186495fd9e8a53d25762a
+      Hash: 7d93ba94ae1733c156eedd30d20c29f0
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Player1Control
@@ -285,7 +356,7 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: 97ace6213ad0f149b0917a4c669c6ca3
-    assemblyName: UnityEngine.UI.dll
+    assemblyName: Unity.ugui.dll
     namespaceName: UnityEngine.UI
     className: ScrollRect
   - hash:
@@ -321,25 +392,25 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: 516824a435828eadd660ef2f1658a48e
-    assemblyName: UnityEngine.UI.dll
+    assemblyName: Unity.ugui.dll
     namespaceName: UnityEngine.UI
     className: Button
   - hash:
       serializedVersion: 2
       Hash: 92da9881aed190e8bb74661bcd74aa2c
-    assemblyName: UnityEngine.UI.dll
+    assemblyName: Unity.ugui.dll
     namespaceName: UnityEngine.UI
     className: RawImage
   - hash:
       serializedVersion: 2
       Hash: 5ad4aa237d47ac2bab17bacb672edf7a
-    assemblyName: UnityEngine.UI.dll
+    assemblyName: Unity.ugui.dll
     namespaceName: UnityEngine.UI
     className: VerticalLayoutGroup
   - hash:
       serializedVersion: 2
       Hash: 12e64d607873da15ad3f833620350d51
-    assemblyName: UnityEngine.UI.dll
+    assemblyName: Unity.ugui.dll
     namespaceName: UnityEngine.UI
     className: InputField
   - hash:
@@ -351,7 +422,7 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: 5ad4aa237d47ac2bab17bacb672edf7a
-    assemblyName: UnityEngine.UI.dll
+    assemblyName: Unity.ugui.dll
     namespaceName: UnityEngine.UI
     className: HorizontalLayoutGroup
   - hash:
@@ -375,7 +446,7 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: 18c222bef9ae745ce69ddde9b74337ca
-    assemblyName: UnityEngine.UI.dll
+    assemblyName: Unity.ugui.dll
     namespaceName: UnityEngine.EventSystems
     className: Physics2DRaycaster
   - hash:
@@ -411,7 +482,7 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: ae83e830e7a90c0aff918c4c2e520825
-    assemblyName: UnityEngine.UI.dll
+    assemblyName: Unity.ugui.dll
     namespaceName: UnityEngine.UI
     className: GraphicRaycaster
   - hash:
@@ -422,7 +493,7 @@ ScriptsOnlyBuild:
     className: BeforeAfterTestCommandState
   - hash:
       serializedVersion: 2
-      Hash: d2fa77628f3b731cc15ef0db9eae8dd2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: BulletController
@@ -465,19 +536,19 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: UnityEngine.UI.dll
+    assemblyName: Unity.ugui.dll
     namespaceName: UnityEngine.EventSystems
     className: BaseInput
   - hash:
       serializedVersion: 2
       Hash: caa533b001ae39b864ba8425019e2268
-    assemblyName: UnityEngine.UI.dll
+    assemblyName: Unity.ugui.dll
     namespaceName: UnityEngine.UI
     className: Outline
   - hash:
       serializedVersion: 2
       Hash: 3f52d34ea17dfc771004b80f5d492445
-    assemblyName: UnityEngine.UI.dll
+    assemblyName: Unity.ugui.dll
     namespaceName: UnityEngine.EventSystems
     className: EventTrigger
   - hash:
@@ -495,19 +566,19 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: 0852116b29df10ce3f9156850d406521
-    assemblyName: UnityEngine.UI.dll
+    assemblyName: Unity.ugui.dll
     namespaceName: UnityEngine.UI
     className: Dropdown
   - hash:
       serializedVersion: 2
       Hash: 748dd2a2a28da4e618912da5ac45684b
-    assemblyName: UnityEngine.UI.dll
+    assemblyName: Unity.ugui.dll
     namespaceName: UnityEngine.EventSystems
     className: StandaloneInputModule
   - hash:
       serializedVersion: 2
       Hash: 3ab7272a8b7d3ea5a142e0c9b6aae63b
-    assemblyName: UnityEngine.UI.dll
+    assemblyName: Unity.ugui.dll
     namespaceName: UnityEngine.UI
     className: Toggle
   - hash:
@@ -519,13 +590,13 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: 85c97bcc5f84eeb0999d75902803b99d
-    assemblyName: UnityEngine.UI.dll
+    assemblyName: Unity.ugui.dll
     namespaceName: UnityEngine.UI
     className: Slider
   - hash:
       serializedVersion: 2
       Hash: 0fd6822f6177297bd0eb4d83cc7a9030
-    assemblyName: UnityEngine.UI.dll
+    assemblyName: Unity.ugui.dll
     namespaceName: UnityEngine.UI
     className: ToggleGroup
   - hash:
@@ -534,7 +605,80 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: script
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: scriptGraf
+  - hash:
+      serializedVersion: 2
+      Hash: 2a1daf9d0e6c14b10bf4e74b44f09296
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BarraVida
+  - hash:
+      serializedVersion: 2
+      Hash: af9b964bbaf21e4e00e14b98c21b0c33
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: HealthBar
+  - hash:
+      serializedVersion: 2
+      Hash: 6c20657734a2e79a8642721bee2a9eeb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GameHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 05cede3f915399cac147f9e5eea79328
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: CodeMonkey.MonoBehaviours
+    className: PositionRendererSorter
+  - hash:
+      serializedVersion: 2
+      Hash: 5b1d3232bdaba52e260d32a9eb24296b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: CodeMonkey.MonoBehaviours
+    className: CameraFollowSetup
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: CodeMonkey.MonoBehaviours
+    className: CameraFollow
+  - hash:
+      serializedVersion: 2
+      Hash: a2b249e27e25a975ba9d3c9b8e130910
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: CodeMonkey.Utils
+    className: Button_UI
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: CodeMonkey.MonoBehaviours
+    className: ComponentActions
+  - hash:
+      serializedVersion: 2
+      Hash: fa653120b8e2e20f2e5fa15091afeb95
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: CodeMonkey.Utils
+    className: Button_Sprite
+  - hash:
+      serializedVersion: 2
+      Hash: 8a2193d36589610b9a9a816079abc21d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: CodeMonkey
+    className: Assets
   platform: 19
   scenePathNames:
+  - Assets/Scenes/Menu.unity
   - Assets/Scenes/Main.unity
-  playerPath: C:/Users/crisl/Desktop/The-7th-Fighter.exe
+  playerPath: C:/dev/The-7th-Fighter/built/The-7th-Fighter.exe

@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class BulletController : MonoBehaviour
 {
-    public float speed = 20; 
-    public int damage = 20;
+    public static float speed = 100; 
+    public static int damage = 17;
     // Start is called before the first frame update
     void Start()
     {
