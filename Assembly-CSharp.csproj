@@ -54,13 +54,39 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\BulletController.cs" />
+     <Compile Include="Assets\CodeMonkey\Assets.cs" />
+     <Compile Include="Assets\CodeMonkey\CMDebug.cs" />
+     <Compile Include="Assets\CodeMonkey\MonoBehaviours\CameraFollow.cs" />
+     <Compile Include="Assets\CodeMonkey\MonoBehaviours\CameraFollowSetup.cs" />
+     <Compile Include="Assets\CodeMonkey\MonoBehaviours\ComponentActions.cs" />
+     <Compile Include="Assets\CodeMonkey\MonoBehaviours\PositionRendererSorter.cs" />
+     <Compile Include="Assets\CodeMonkey\Utils\Button_Sprite.cs" />
+     <Compile Include="Assets\CodeMonkey\Utils\Button_UI.cs" />
+     <Compile Include="Assets\CodeMonkey\Utils\FunctionPeriodic.cs" />
+     <Compile Include="Assets\CodeMonkey\Utils\FunctionTimer.cs" />
+     <Compile Include="Assets\CodeMonkey\Utils\FunctionUpdater.cs" />
+     <Compile Include="Assets\CodeMonkey\Utils\UI_Bar.cs" />
+     <Compile Include="Assets\CodeMonkey\Utils\UI_BarMultiple.cs" />
+     <Compile Include="Assets\CodeMonkey\Utils\UI_Sprite.cs" />
+     <Compile Include="Assets\CodeMonkey\Utils\UI_TextComplex.cs" />
+     <Compile Include="Assets\CodeMonkey\Utils\UtilsClass.cs" />
+     <Compile Include="Assets\CodeMonkey\Utils\World_Bar.cs" />
+     <Compile Include="Assets\CodeMonkey\Utils\World_Mesh.cs" />
+     <Compile Include="Assets\CodeMonkey\Utils\World_Sprite.cs" />
+     <Compile Include="Assets\Menu\script.cs" />
+     <Compile Include="Assets\Menu\scriptGraf.cs" />
      <Compile Include="Assets\Weapon.cs" />
      <Compile Include="Assets\scripts\Alt\Player1Control.cs" />
      <Compile Include="Assets\scripts\Alt\animate.cs" />
      <Compile Include="Assets\scripts\Alt\floor.cs" />
+     <Compile Include="Assets\scripts\BULLETSPAWN.cs" />
+     <Compile Include="Assets\scripts\BarraVida.cs" />
      <Compile Include="Assets\scripts\Camara_S.cs" />
      <Compile Include="Assets\scripts\Grounded.cs" />
      <Compile Include="Assets\scripts\animated.cs" />
+     <Compile Include="Assets\templates\HowToHealthBar\Scripts\GameHandler.cs" />
+     <Compile Include="Assets\templates\HowToHealthBar\Scripts\HealthBar.cs" />
+     <None Include="Assets\CodeMonkey\README.txt" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/crisl/The-7th-Fighter/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
